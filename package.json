@@ -13,7 +13,7 @@
         "url": "https://github.com/prscX/awesome-vscode"
     },
     "scripts": {
-        "postinstall": "code --install-extension svetlozarangelov.vscode-open-project"
+        "postinstall": ""
     },
     "contributors": [
     ],
