@@ -16,9 +16,11 @@ This library enhances usability by providing prepackaged essential plugins for v
 
 `npm install`
 
-On `npm install` it will automatically install all plugins configured in library
+On `install` it will automatically install all plugins configured in library
 
-> **Note:** If you are using MAC then please make your that you have install `code` command in PATH. Please refer [Microsoft Blog](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) for more details
+> **Note:**
+> - If you are using MAC then please make your that you have install `code` command in PATH. Please refer [Microsoft Blog](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) for more details
+> - All plugins are defined in package.json `postinstall` section
 
 # Essential Plugins
 - [svetlozarangelov.vscode-open-project](https://marketplace.visualstudio.com/items?itemName=svetlozarangelov.vscode-open-project)
@@ -54,7 +56,7 @@ On `npm install` it will automatically install all plugins configured in library
 
 
 # Contributions
-If you feel any X plugin should be part of this prepacked essential plugins, please feel free to raise a PR for the same. Any type of contribution will be very much appreciated
+If you feel any X plugin should be part of these prepacked essential plugins, please feel free to raise a PR for the same. Any type of contribution will be very much appreciated
 
 # License
 Copyright @2017 Pranav Raj Singh Chauhan
