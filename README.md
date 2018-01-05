@@ -7,7 +7,7 @@
 
 This library enhances usability by providing prepackaged essential plugins for visual studio code. Before we dive into on how to use this library. We would like to thank all the contributor of plugins we have configured in this library
 
-> **Note:** These prepacked plugins will definitely help developers of [React](https://github.com/facebook/react), [ReactNative](https://github.com/facebook/react-native) community
+> **Note:** These prepacked plugins will definitely help developers of [React](https://github.com/facebook/react) & [ReactNative](https://github.com/facebook/react-native) community
 
 
 
