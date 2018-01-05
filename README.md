@@ -1,6 +1,7 @@
-# Visual Studio Code - Essential Plugins
 
 <center><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" /></center>
+
+# Visual Studio Code - Essential Plugins
 
 [VS Code](https://code.visualstudio.com/) is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
