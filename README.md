@@ -1,5 +1,12 @@
 
-<center><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" /></center>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" /></p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/vs-essential-plugins"><img src="http://img.shields.io/npm/v/vs-essential-plugins.svg?style=flat" /></a>
+  <a href="https://github.com/prscX/vs-essential-plugins/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/prscX/vs-essential-plugins#License"><img src="https://img.shields.io/npm/l/vs-essential-plugins.svg?style=flat" /></a>
+</p>
+
 
 # Visual Studio Code - Essential Plugins
 
