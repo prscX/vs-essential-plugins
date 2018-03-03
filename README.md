@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" /></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" width="300" height="300" /></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vs-essential-plugins"><img src="http://img.shields.io/npm/v/vs-essential-plugins.svg?style=flat" /></a>
