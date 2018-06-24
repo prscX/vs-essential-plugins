@@ -1,3 +1,4 @@
+<h1 align="center">
 
 <p align="center"><img src="https://pbs.twimg.com/profile_images/922911523328081920/jEKFRPKV_400x400.jpg" width="300" height="300" /></p>
 
@@ -7,8 +8,11 @@
   <a href="https://github.com/prscX/vs-essential-plugins#License"><img src="https://img.shields.io/npm/l/vs-essential-plugins.svg?style=flat" /></a>
 </p>
 
+    Visual Studio Code - Essential Plugins
 
-# Visual Studio Code - Essential Plugins
+If this project has helped you out, please support us with a star 🌟
+
+</h1>
 
 [VS Code](https://code.visualstudio.com/) is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
@@ -16,9 +20,7 @@ This library enhances usability by providing prepackaged essential plugins for v
 
 > **Note:** These prepacked plugins will definitely help developers of [React](https://github.com/facebook/react) & [ReactNative](https://github.com/facebook/react-native) community
 
-
-
-## Usage
+## 💻 Usage
 
 `npm install vs-essential-plugins --save`
 
@@ -27,10 +29,12 @@ This library enhances usability by providing prepackaged essential plugins for v
 On `install` it will automatically install all plugins configured in library
 
 > **Note:**
+>
 > - If you are using MAC then please make your that you have install `code` command in PATH. Please refer [Microsoft Blog](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) for more details
 > - All plugins are defined in package.json `postinstall` section
 
 # Essential Plugins
+
 - [svetlozarangelov.vscode-open-project](https://marketplace.visualstudio.com/items?itemName=svetlozarangelov.vscode-open-project): _This extension allows you to easily switch projects inside Visual Studio Code_
 - [DavidAnson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): _Markdown/CommonMark linting and style checking for Visual Studio Code_
 - [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): _The extension uses the ESLint library installed in the opened workspace folder_
@@ -59,89 +63,39 @@ On `install` it will automatically install all plugins configured in library
 - [xyz.local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): _A visual source code plugin for maintaining local history of files_
 - [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): _Prettier formatter for Visual Studio Code_
 - [Orta.vscode-react-native-storybooks](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-react-native-storybooks): _Select storybooks inside your editor_
-- [IBM.output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): _Language extension for VSCode/Bluemix Code that adds syntax colorization for both the output/debug/extensions panel and *.log files_
+- [IBM.output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): _Language extension for VSCode/Bluemix Code that adds syntax colorization for both the output/debug/extensions panel and \*.log files_
 - [qezhu.gitlink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink): _Inspired by GitHub extension for Visual Studio, this extension provide the feature that Go To current file's online link in browser and Copy the link in clipboard_
 
+## ✨ Credits
 
-# Contributions
-If you feel any X plugin should be part of these prepacked essential plugins, please feel free to raise a PR for the same. Any type of contribution will be very much appreciated
+## 🤔 How to contribute
 
-# License
-Copyright @2017 Pranav Raj Singh Chauhan
+Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/prscX/vs-essential-plugins/issues).
+Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
-vs-essential-plugins is provided under the MIT License.
+## 💫 Where is this library used?
 
+If you are using this library in one of your projects, add it in this list below. ✨
 
+## 📜 License
 
+This library is provided under the Apache 2 License.
 
-## Other Contributions
+vs-essential-plugins @ [prscX](https://github.com/prscX)
 
-| [awesome-react-native-native-modules](https://github.com/prscX/awesome-react-native-native-modules)              |
-| ----------------- |
-| <img src="https://github.com/prscX/awesome-react-native-native-modules/raw/master/assets/hero.png" width="600" height="300" />                  |
+## 💖 Support my projects
 
+I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously, this takes time. You can integrate and use these projects in your applications for free! You can even change the source code and redistribute (even resell it).
 
-| [react-native-spruce](https://github.com/prscX/react-native-spruce)              |
-| ----------------- |
-| <img src="https://github.com/willowtreeapps/spruce-ios/raw/master/imgs/extensibility-tests.gif" width="600" height="300" />                  |
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
+- Starring and sharing the projects you like 🚀
+- If you're feeling especially charitable, please follow [prscX](https://github.com/prscX) on GitHub.
 
-| [react-native-taptargetview](https://github.com/prscX/react-native-taptargetview) & [react-native-material-showcase-ios](https://github.com/prscX/react-native-material-showcase-ios)              |
-| ----------------- |
-| <img src="https://github.com/KeepSafe/TapTargetView/raw/master/.github/video.gif" width="600" height="600" />  |
+  <a href="https://www.buymeacoffee.com/prscX" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-
-| [react-native-bottom-action-sheet](https://github.com/prscX/react-native-bottom-action-sheet)              |
-| ----------------- |
-| <img src="https://github.com/rubensousa/BottomSheetBuilder/raw/master/screens/normal_demo.gif" width="600" height="600" />                  |
-
-
-| [react-native-popover-menu](https://github.com/prscX/react-native-popover-menu)             |
-| ----------------- |
-| <img src="https://github.com/zawadz88/MaterialPopupMenu/raw/master/art/components_menus.png" width="600" height="300" />                  |
-
-
-| [react-native-tooltips](https://github.com/prscX/react-native-tooltips)             |
-| ----------------- |
-| <img src="https://camo.githubusercontent.com/add1764d27026b81adb117e07a10781c9abbde1b/687474703a2f2f692e696d6775722e636f6d2f4f4e383257526c2e676966" width="600" height="300" />                  |
-
-
-| [react-native-shine-button](https://github.com/prscX/react-native-shine-button)             |
-| ----------------- |
-| <img src="https://raw.githubusercontent.com/ChadCSong/ShineButton/master/demo_shine_others.gif" width="600" height="300" />                  |
-
-
-| [react-native-iconic](https://github.com/prscX/react-native-iconic)             |
-| ----------------- |
-| <img src="https://camo.githubusercontent.com/b18993cbfe91de8abdc0019dc9a6cd44707eec21/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3338313133332f73637265656e73686f74732f313639363538302f766266706f70666c6174627574746f6e332e676966" width="600" height="300" />                  |
-
-
-| [react-native-download-button](https://github.com/prscX/react-native-download-button)             |
-| ----------------- |
-| <img src="https://github.com/fenjuly/ArrowDownloadButton/raw/master/screenshots/arrowdownloadbutton.gif" width="600" height="600" />                  |
-
-
-| [react-native-siri-wave-view](https://github.com/prscX/react-native-siri-wave-view)             |
-| ----------------- |
-| <img src="https://cdn.dribbble.com/users/341264/screenshots/2203511/wave.gif" width="600" height="300" />                  |
-
-
-|  [react-native-material-shadows](https://github.com/prscX/react-native-material-shadows)             |
-| ----------------- |
-| <img src="https://raw.githubusercontent.com/harjot-oberai/MaterialShadows/master/screens/cover.png" width="600" height="300" />                  |
-
-
-|  [react-native-gradient-blur-view](https://github.com/prscX/react-native-gradient-blur-view)             |
-| ----------------- |
-| <img src="https://github.com/prscX/react-native-gradient-blur-view/raw/master/assets/hero.png" width="600" height="300" />                  |
-
-
-|  [react-native-about-libraries](https://github.com/prscX/react-native-about-libraries)             |
-| ----------------- |
-| <img src="https://github.com/prscX/react-native-about-libraries/raw/master/hero.png" width="600" height="600" />                  |
-
-
-
-|  [prettier-pack](https://github.com/prscX/prettier-pack)             |
-| ----------------- |
-| <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png" width="600" height="300" />                  |
+  Thanks! ❤️
+  <br/>
+  [prscX.github.io](https://prscx.github.io)
+  <br/>
+  </ Pranav >
