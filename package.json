@@ -1,6 +1,6 @@
 {
   "name": "vs-essential-plugins",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "description": "Essential Prepackaged VSCode Plugins for ReactNative",
   "author": {
